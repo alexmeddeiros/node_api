@@ -1,0 +1,4 @@
+{
+    "type": "sqlite",
+    "batabase": "./src/database/database.sqlite"
+}
